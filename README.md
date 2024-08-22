@@ -6,7 +6,7 @@ This is a Laravel sample code. This code consist of the CRUD functionality of Us
 4. Users List with Pagination .
 
 Technology StackUsed:
-Laravel 10.10
-PHP 8.1
-Eloquent ORM
-MYSQL
+1. Laravel 10.10
+2. PHP 8.1
+3. Eloquent ORM
+4. MYSQL
